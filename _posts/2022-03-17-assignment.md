@@ -5,6 +5,9 @@ date:   2022-03-17 14:46:54 +0900
 categories: jekyll update
 ---
 
+
+# hello local server
+
 # 1주차
 
 
@@ -33,8 +36,11 @@ categories: jekyll update
 
 ## 과제 - 마크다운을 이용하여 관심있는 주제에 대해 포스트 작성 후, 지킬을 이용해 로컬 서버에 업로드하기
 
+-  my-awesome-site
 - `bundle exec jekyll serve`
+- [Server address](http://127.0.0.1:4000/)
 
+- **vs code 에서 수정후 저장 하면 local 에서 바로 확인 가능**
 
 
 ---
