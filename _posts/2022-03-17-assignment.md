@@ -5,9 +5,6 @@ date:   2022-03-17 14:46:54 +0900
 categories: jekyll update
 ---
 
-
-# check3
-
 # 1주차
 
 
@@ -222,4 +219,50 @@ categories: jekyll update
 
 ## 과제 - 마크다운을 이용하여 수업 내용 및 추가 관련내용 정리하여 포스트 작성 후, 지킬을 이용해 로컬 서버에 업로드 후, online 깃허브 페이지 업로드
 
+### ERROR
+
+```
+(base) daeheehan@DAEHEEui-MacBookPro _posts % git push
+To https://github.com/DAEHEE97/DAEHEE97.github.io.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: 레퍼런스를 'https://github.com/DAEHEE97/DAEHEE97.github.io.git'에 푸시하는데 실패했습니다
+힌트: 현재 브랜치의 끝이 리모트 브랜치보다 뒤에 있으므로 업데이트가
+힌트: 거부되었습니다. 푸시하기 전에 ('git pull ...' 등 명령으로) 리모트
+힌트: 변경 사항을 포함하십시오.
+힌트: 자세한 정보는 'git push --help'의 "Note about fast-forwards' 부분을
+힌트: 참고하십시오.
+
+```
+
+
+```
+(base) daeheehan@DAEHEEui-MacBookPro _posts % git push origin main
+
+
+To https://github.com/DAEHEE97/DAEHEE97.github.io.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: 레퍼런스를 'https://github.com/DAEHEE97/DAEHEE97.github.io.git'에 푸시하는데 실패했습니다
+힌트: 현재 브랜치의 끝이 리모트 브랜치보다 뒤에 있으므로 업데이트가
+힌트: 거부되었습니다. 푸시하기 전에 ('git pull ...' 등 명령으로) 리모트
+힌트: 변경 사항을 포함하십시오.
+힌트: 자세한 정보는 'git push --help'의 "Note about fast-forwards' 부분을
+힌트: 참고하십시오.
+
+```
+
+### Solution
+```
+
+(base) daeheehan@DAEHEEui-MacBookPro _posts % git push origin +main
+오브젝트 나열하는 중: 11, 완료.
+오브젝트 개수 세는 중: 100% (11/11), 완료.
+Delta compression using up to 16 threads
+오브젝트 압축하는 중: 100% (8/8), 완료.
+오브젝트 쓰는 중: 100% (8/8), 788 bytes | 788.00 KiB/s, 완료.
+Total 8 (delta 6), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (6/6), completed with 3 local objects.
+To https://github.com/DAEHEE97/DAEHEE97.github.io.git
+ + e975f44...f333de0 main -> main (forced update)
+
+```
 ---
