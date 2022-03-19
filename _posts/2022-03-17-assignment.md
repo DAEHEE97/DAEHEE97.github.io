@@ -48,8 +48,6 @@ categories: jekyll update
 
 - https://www.edx.org/
 
-이미지 출처 : wikipedia - Time Complexity
-
 ### Space complexity
 
 - 알고리즘을 위해 필요한 메모리의 크기
@@ -264,4 +262,22 @@ To https://github.com/DAEHEE97/DAEHEE97.github.io.git
  + e975f44...f333de0 main -> main (forced update)
 
 ```
+
+
+
 ---
+# 3주차
+
+## Divide and Conquer 분할 정복
+
+
+### 병합정렬
+
+
+### 퀵정렬
+
+
+### 선택 알고리즘 n개의 데이터 k번째 작은 수
+
+
+### 최근접 쌍 찾기 closest pair
