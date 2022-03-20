@@ -4,12 +4,15 @@ title:  "Algorithm-java"
 date:   2022-03-17 14:46:54 +0900
 categories: jekyll update
 ---
+
+# check 
+
+
 # 1주차
 
 
 ## Markdown 이해
 - [Github-markdown-docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-
 
 
 
@@ -262,8 +265,6 @@ To https://github.com/DAEHEE97/DAEHEE97.github.io.git
  + e975f44...f333de0 main -> main (forced update)
 
 ```
-
-
 
 ---
 # 3주차
