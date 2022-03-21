@@ -35,9 +35,9 @@ categories: jekyll update
 
 ## 과제 - 마크다운을 이용하여 관심있는 주제에 대해 포스트 작성 후, 지킬을 이용해 로컬 서버에 업로드하기
 
--  my-awesome-site
+-  /my-awesome-site
 - `bundle exec jekyll serve`
-- [Server address](http://127.0.0.1:4000/)
+- [local server address](http://127.0.0.1:4000/)
 
 - **vs code 에서 수정후 저장 하면 local 에서 바로 확인 가능**
 
@@ -250,7 +250,7 @@ error: 레퍼런스를 'https://github.com/DAEHEE97/DAEHEE97.github.io.git'에 �
 
 ```
 
-### Solution
+### Solution  `git push origin +main`
 ```
 
 (base) daeheehan@DAEHEEui-MacBookPro _posts % git push origin +main
