@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Divide_and_conquer"
+date:   2022-03-24 13:52:54 +0900
+categories: jekyll update
+---
+
 # 분할 정복 (divide and conquer)
 
 - 큰 문제를 작은 문제로 나눠서(분할하여) 푸는(정복하는) 방법을 알고리즘 설계 기법
