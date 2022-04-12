@@ -283,5 +283,3 @@ To https://github.com/DAEHEE97/DAEHEE97.github.io.git
 
 ### 최근접 쌍 찾기 closest pair
 
-
-안
