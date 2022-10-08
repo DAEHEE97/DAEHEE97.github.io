@@ -333,3 +333,19 @@ title:  "S_V"
 - Kotlin VideoView local test
 - Kotlin VideoView Wifi test
 - Kotlin Mediaplayer test
+
+# 2022-10-08
+
+- Kotlin update test
+
+- Sound
+
+    - Start
+    - notify : line 보다 아래로 실시 후 다운 했을 시
+    - Complete
+    - Exit
+
+- Video
+
+
+
