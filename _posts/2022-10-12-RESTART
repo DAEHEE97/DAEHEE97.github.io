@@ -353,6 +353,27 @@ title:  "S_V"
 
 - SFML
 
+# 2022-10-11
+
+- Kotlin Activity 전환 
+- Kotlin Activity 연결
+
+- SFML
+
+# 2022-10-12
+
+- Kotlin Sound
+
+    - Start : 10초 후  시작합니다.
+    - * notify : line 보다 아래로 실시 후 다운 했을 시
+    - Complete 1회
+    - Complete 1set
+    - Exit : 운동을 종료합니다.
+
+- SFML
+
+
+
 
 
 
