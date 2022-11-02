@@ -417,6 +417,34 @@ title:  "S_V"
 
 - Kotlin editText 
 
+# 2022-10-31
+
+- CPP_obj 
+    - static variable 
+    - static function
+    - operator overloading
+
+- 캡스턴
+    - 18일 PPT, DEMO 영상
+
+# 2022-11-02
+
+- CPP_obj
+    - operator overloading
+    - ==
+    - !=
+    - ++()
+    - ()++
+    - pointer 
+
+- 캡스턴
+    - 타이머 back button 초기화
+
+    
+
+
+
+
 
 
 
