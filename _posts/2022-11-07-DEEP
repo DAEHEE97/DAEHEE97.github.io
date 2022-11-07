@@ -440,7 +440,7 @@ title:  "S_V"
 - 캡스턴
     - 타이머 back button 초기화
 
- # 2022-11-03
+# 2022-11-03
  - CPP_obj
  
  - SFML
@@ -449,9 +449,18 @@ title:  "S_V"
  
  - SFML
 
- # 2022-11-06
+# 2022-11-06
 
  - xml
+
+# 2022-11-07
+ - CPP_obj
+    - friend function & friend class
+    - Inheritance
+    - protected
+
+ - xml
+    - Sound
 
 
 
