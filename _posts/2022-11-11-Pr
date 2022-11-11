@@ -465,11 +465,28 @@ title:  "S_V"
 # 2022-11-09
 
 - CPP_obj
-     - Inheritance
+    - function overloading
+    - method overloading
+    - Inheritance
+    - multiple Inheritance - :: namespace access
+
+    - 정적 polymorphism : method overriding
+    - 동적 polymorphism : dynamic binding
+        - upcasting
+        - downcasting
+        - virtual method
+        - virtual destructor
 
 - GitHub token
 
 - aws connect
+
+# 2022-11-11
+
+- Priority
+
+- CT 
+
 
 
 
