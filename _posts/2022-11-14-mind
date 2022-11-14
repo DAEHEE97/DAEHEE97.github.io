@@ -487,6 +487,25 @@ title:  "S_V"
 
 - CT 
 
+# 2022-11-12
+- CT
+- Next
+
+# 2022-11-14
+- CPP_obj
+    - Polymorphism 다형성
+    - upcasting
+    - downcasting
+    - dynamic binding
+    - 추상 클래스
+    - 순수 가상함수 pure virtual method
+    
+    - 파일 입출력
+
+- CT
+
+- ESSAY
+
 
 
 
